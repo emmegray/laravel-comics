@@ -1,21 +1,4 @@
-body {
-  margin: 0 auto;
-}
-
-* {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
-  font-family: "Greta Sans Condensed Bold", "Greta Sans Bold", Arial, sans-serif;
-}
-
-a {
-  text-decoration: none;
-}
-
-li {
-  list-style: none;
-}.container{
+.container{
   width: 80%;
   max-width: 1200px;
   margin: 0 auto;
@@ -37,7 +20,4 @@ li {
   text-align: center;
   text-transform: uppercase;
   width: 150px;
-}$primary-color: #0282F9; 
-
-$bg-dark: #1c1c1c;
-$bg-gray: #303030;
+}

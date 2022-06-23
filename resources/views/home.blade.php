@@ -1,5 +1,7 @@
 @extends('layout.main')
 
-@section('home')
-<h1>homepage</h1>
+@section('content')
+
+<div id="app"></div>
+
 @endsection

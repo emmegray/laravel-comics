@@ -1,0 +1,48 @@
+[
+    {
+      "title": "DC Comics",
+      "links": [
+        { "label": "Characters", "url": "/#" },
+        { "label": "Comics", "url": "/#" },
+        { "label": "Movies", "url": "/#" },
+        { "label": "TV", "url": "/#" },
+        { "label": "Games", "url": "/#" },
+        { "label": "Videos", "url": "/#" },
+        { "label": "News", "url": "/#" }
+      ]
+    },
+
+    {
+      "title": "Shop",
+      "links": [
+        { "label": "Shop Dc", "url": "/#" },
+        { "label": "Shop Dc Collectibles", "url": "/#" }
+      ]
+    },
+
+    {
+      "title": "DC",
+      "links": [
+        { "label": "Terms Of Use", "url": "/#" },
+        { "label": "Privacy Policy (New)", "url": "/#" },
+        { "label": "Advertising", "url": "/#" },
+        { "label": "Jobs", "url": "/#" },
+        { "label": "Subscriptions", "url": "/#" },
+        { "label": "CPSC Certificates", "url": "/#" },
+        { "label": "Ratings", "url": "/#" },
+        { "label": "Shop Help", "url": "/#" },
+        { "label": "Contact Us", "url": "/#" }
+      ]
+    },
+
+    {
+      "title": "Sites",
+      "links": [
+        { "label": "DC", "url": "/#" },
+        { "label": "DC UNIVERSE INFINITE", "url": "/#" },
+        { "label": "DC Kids", "url": "/#" },
+        { "label": "DC Shop", "url": "/#" },
+        { "label": "MAD Magazine", "url": "/#" }
+      ]
+    }
+  ]
